@@ -17,3 +17,16 @@ Almost there!! Crack this hash: 916e8c4f79b25028c9e467f1eb8eee6d6bbdff965f992831
 Enter the password for the identified hash: qwerty098
 Correct! You've cracked the SHA-256 hash with a secret found. 
 The flag is: academy{UseStr0nG_h@shEs_&PaSswDs!_0fef0e3f}
+
+
+
+#red
+
+ echo "cGljb0NURntyM2RfMXNfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==" | base64 -d
+picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}Vidhyalakshmik1234NfdGgzX3VsdDFtNHQzX2N1cjNfZjByXzU0ZG4zNTVffQ==" | base64 -d
+academy{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}Vidhyalakshmik12345-academy@webshell:~$
+
+#Redaction
+
+
+academy{C4n_Y0u_S33_m3_fully}
